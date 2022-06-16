@@ -1,4 +1,5 @@
 # SmartGrades
+Copie GitHub du projet https://gitlab.com/VinSey1/SmartGrades
 ## Nécessités avant de démarrer le projet
 1. Éditer le fichier *docker/mysql.env* avec les mots de passe de votre choix
 2. Éditer le fichier *app/public/orm/conf/pdo.conf* avec le mot de passe renseigné dans l'étape d'avant
