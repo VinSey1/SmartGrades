@@ -1,0 +1,56 @@
+.title {
+  height: 10vh;
+  margin: 0 0 10px 0;
+}
+
+.content {
+  padding: 10px 50px;
+  min-height: 84vh !important;
+  text-align: justify;
+}
+
+.erreur-texte {
+  font-size: 25px;
+  color: #174c4f;
+  font-style: bold;
+}
+
+.erreur-texte img {
+  height: 25vh;
+}
+
+h1 {
+  font-family: "ThiccBoi-Bold";
+  text-transform: uppercase;
+  color: #174c4f;
+  text-decoration: underline overline;
+  text-underline-position: under;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.matieres {
+  width: 40vw;
+}
+
+.logo-noir {
+  color: black;
+}
+
+@font-face {
+  font-family: "ThiccBoi";
+  src: url("../files/fonts/Webfont/THICCCBOI-SemiBold.woff2") format("woff2"),
+    url("../files/fonts/TTF/THICCCBOI-SemiBold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "ThiccBoi-Regular";
+  src: url("../files/fonts/Webfont/THICCCBOI-Regular.woff2") format("woff2"),
+    url("../files/fonts/TTF/THICCCBOI-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "ThiccBoi-Bold";
+  src: url("../files/fonts/Webfont/THICCCBOI-Bold.woff2") format("woff2"),
+    url("../files/fonts/TTF/THICCCBOI-Bold.ttf") format("ttf");
+}

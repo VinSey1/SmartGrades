@@ -1,0 +1,10 @@
+.footer {
+    height: 8vh !important;
+}
+
+.footer div {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.2);
+}

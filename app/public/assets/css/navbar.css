@@ -1,0 +1,20 @@
+.navbar {
+    height: 8vh;
+    background-color: #174A4D;
+}
+
+.navbar-brand {
+    padding-left: 15px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.nav-link:hover {
+    color: white;
+    opacity: 0.5;
+}
